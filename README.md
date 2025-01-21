@@ -39,7 +39,7 @@
 ### 联系我们
 
 * **QQ 群：** 731973330
-* **GitHub：** https://github.com/TSLshus/CMBLite/tree/main
+* **GitHub：** https://github.com/TSLshus/CMBLite
 * **邮箱：** []
 
 ### 免责声明
