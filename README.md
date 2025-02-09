@@ -1,4 +1,4 @@
-# CMBLite
+7# CMBLite
 ## 鸡音盒 Lite 官方下载与安装
 
 **感谢您选择鸡音盒 Lite！**
@@ -40,8 +40,10 @@
 
 * **QQ 群：** 731973330
 * **GitHub：** https://github.com/TSLshus/CMBLite
-* **邮箱：** []
-
+* **应用官网：** 
+https://tctrial.com/cmb/Lite/
+* **应用下载页：**
+https://tctrial.com/cmb/Lite/download/
 ### 免责声明
 
 本软件仅供个人学习研究使用，请勿用于商业用途。
